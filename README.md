@@ -1,4 +1,6 @@
-Discography: Wave To Earth 🌊💫
+# Discography: Wave To Earth 🌊💫
+![wave-to-earth](https://github.com/user-attachments/assets/6b134f33-6d2b-4400-ae53-7ce22164c1be)
+ 
 
 # 🏃‍➡️ Running the Project
 <ol>
@@ -17,4 +19,9 @@ Discography: Wave To Earth 🌊💫
 </ul>
 
 # ✒️ Design Tool
-
+- `Figma` used to design the welcome page, specifically the band's members (Kim Daniel, Cha Soon-Jung, & Shin Dong Gyu) and the name of the band (Wave to Earth).
+- `CSS Gradient` used to pick colors for the welcome, body, and footer pages.
+  
+# 💡 Sources
+- Navigation bar `Tours` and `Shops` are linked to [Wave to Earth's](https://wave-to-earth.com/) official page. For the ` About ` nav bar, its link is from [dtc-wsuv](https://dtc-wsuv.org/lgalvan23/info-card/) for the information about the artists.
+- Songs and Images links are from [Spotify](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg?si=zAgKka3BT_Og1HhgqFa8ag).
